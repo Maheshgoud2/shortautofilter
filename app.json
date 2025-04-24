@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/mrmalikoffl/MsFilmFactoryV2",
-    "repository": "https://github.com/mrmalikoffl/MsFilmFactoryV2",
+    "website": "https://github.com/Maheshgoud2/shortautofilter",
+    "repository": "https://github.com/Maheshgoud2/shortautofilter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
