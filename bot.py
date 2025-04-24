@@ -1,5 +1,3 @@
-##MS-TAMIL-BOTz
-
 import logging
 import logging.config
 from aiohttp import web
