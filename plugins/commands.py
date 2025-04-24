@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/+rN9QCFgIihgyZWM1')
+                InlineKeyboardButton('🔔 Movies group ⚡' url='https://t.me/+9-GlL-spET41MGRl')
             ],
             [
-                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/TN68_FilmFactory"),
+                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+GcTsnzQ14_BiMWJl"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/TN68_FilmFactory"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/+rN9QCFgIihgyZWM1')
+            InlineKeyboardButton('🔔 Movies group ⚡' url='https://t.me/+9-GlL-spET41MGRl')
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+GcTsnzQ14_BiMWJl"),
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -70,7 +70,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔥 Join Updates Channel 🔥", url=invite_link.invite_link
+                    "🔥 Join Updates Channel 🔥", url=https://t.me/+Gi7CObWSe-ZlMWI1
                 )
             ]
         ]
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/TN68_FilmFactory"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/+rN9QCFgIihgyZWM1')
+            InlineKeyboardButton('🔔 Movies group ⚡' url='https://t.me/+9-GlL-spET41MGRl')
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+GcTsnzQ14_BiMWJl"),
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
